@@ -1,0 +1,40 @@
+_repo: The-Armourer-s-Prentices_21222
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hennessy, William John
+    aliases:
+    - Hennessy, W. J. (William John)
+    - Hennessy, W.J.
+    birthdate: 1839
+    deathdate: 1917
+    gutenberg_agent_id: '9782'
+    url: http://www.gutenberg.org/2009/agents/9782
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, Charlotte Mary
+    - Yonge, C. M. (Charlotte Mary)
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+description: ''
+gutenberg_issued: '2007-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21222'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- Henry VIII, 1509-1547 -- Fiction'
+title: The Armourer's Prentices
+url: http://www.gutenberg.org/ebooks/21222
